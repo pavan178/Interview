@@ -10,7 +10,7 @@ class ContactForms(forms.Form):
     Email = forms.EmailField(label='E-mail')
 
 
-# creating fields in the form using using forms.ModelForm to use in admin panel
+#creating fields in the form using using forms.ModelForm to use in admin panel
 
 class SnippetForm(forms.ModelForm):
     class Meta:
