@@ -66,7 +66,7 @@ python manage.py runserver
 the local host will be running with the django project
 
 
-you can go the same local host address on your browser, you will be able to see a form with name, phone number and email fields, fill it anf submit.
+you can go the same local host address on your browser, you will be able to see a form with name, phone number and email fields, fill it and submit.
 
 
 you will be able to see the entered fields in the command prompt in a List.
