@@ -2,7 +2,7 @@
 
 Instructions:
 
-download the zip file from GIT and extract to desired location, open the extracted folder as a project on pycharm or any python IDE.
+Download the zip file from GIT and extract to desired location, open the extracted folder as a project on pycharm or any python IDE.
 
 or you can use git clone to clone the git repo to your local machine.
 
